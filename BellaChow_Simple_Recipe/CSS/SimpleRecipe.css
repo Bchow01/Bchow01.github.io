@@ -1,0 +1,31 @@
+body{
+    background-color:beige
+}
+h1{
+    font-family: fantasy;
+    font-size: 40pt;
+    text-align: center;
+    color:coral;
+    border: 3pt dashed #804000;
+}
+h2{
+    font-size: 32pt;
+    color:	#804000;
+    background-image: url(../rice.jpg);
+    border: 1pt solid transparent; 
+    text-align: center
+}
+h3{
+    color:brown;
+    font-size: 25;
+    text-decoration: underline;
+}
+ul{
+    color:#ac7339;
+    font-family: inherit;
+    
+}
+ol{
+    color:#ac7339;
+    font-family: inherit;
+}

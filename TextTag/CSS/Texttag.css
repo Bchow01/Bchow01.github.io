@@ -1,0 +1,23 @@
+body{
+    background-image: url(../Image/SF.jpg);
+}
+h1{
+    color:#8C2A15;
+    font-family: cursive;
+    text-align: center;
+    font-size: 40pt;
+    border: 8pt double #330000;
+}
+h2
+{
+    color: #ff4d4d;
+    font-family:monospace;
+    font-size: 20pt;
+    background-color: aliceblue
+}
+p{
+ color:firebrick;
+ font-family: monospace;
+ font-size: 15pt;
+    
+}
